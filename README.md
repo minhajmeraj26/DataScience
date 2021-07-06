@@ -48,3 +48,12 @@ This repository contains the tasks that I completed while working as an intern f
     ● What all security issues and insights you can derive by EDA?
 
     ● Dataset: Daily updated .csv file on https://bit.ly/2TK5Xn5    
+    
+# Task-6 : Prediction using Decision Tree Algorithm (Level - Intermediate)
+
+    ● Create the Decision Tree classifier and visualize it graphically.
+
+    ● The purpose is if we feed any new data to this classifier, it would be able to
+      predict the right class accordingly.
+
+    ● Data can be found at https://bit.ly/3cGyP8j       
